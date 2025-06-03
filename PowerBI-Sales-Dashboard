@@ -1,0 +1,22 @@
+# 📈 Interactive Sales Dashboard (Power BI)
+
+## 📌 Objective
+Visualize and explore business sales performance with interactive Power BI dashboards.
+
+## 🧰 Tools Used
+Power BI
+
+## 📊 Dataset
+Internal sales data (imported into .pbix)
+
+## 🛠️ Methodology
+- Loaded and cleaned data within Power BI
+- Built relationships across customer, product, and order tables
+- Designed dashboards with bar charts, KPIs, slicers, and drill-downs
+
+## 🔍 Key Insights
+- Top 5 customers accounted for a significant portion of revenue
+- Category B products had the highest margin
+- Regional sales trends helped adjust marketing strategies
+
+📂 File: `Portf.pbix`
