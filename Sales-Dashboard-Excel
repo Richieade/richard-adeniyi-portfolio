@@ -1,0 +1,22 @@
+# 💼 Sales Performance Dashboard (Excel)
+
+## 📌 Objective
+Create an Excel dashboard to track sales by region, customer, and product.
+
+## 🧰 Tools Used
+Microsoft Excel
+
+## 📊 Dataset
+Sales orders, customers, and product data from internal records
+
+## 🛠️ Methodology
+- Structured multiple sheets (orders, customers, products)
+- Used VLOOKUP and pivot tables to merge and analyze data
+- Created slicers and bar charts for dynamic filtering
+
+## 🔍 Key Insights
+- Top 5 customers made up 45% of total sales
+- Country B contributed the highest share in Q4
+- Category B products outperformed others consistently
+
+📂 File: `Richard Excel Portfolio.xlsx`
